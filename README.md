@@ -1,3 +1,14 @@
 # About ME
-+ Language : TypeScript, JavaScript, Python
-+ I'm living South Korea.
+
+```js
+modules.export = {
+  github: {
+    name: 'Migan178',
+    nickName: 'Migan',
+    project: ['kubot', 'discommand', 'discommand-slash'],
+    org: ['discommand']
+  },
+  language: ['TypeScript', 'JavaScript', 'Python'],
+  aboutMe: '그냥 평범한 사람'
+}   
+```
