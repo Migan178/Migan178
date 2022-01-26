@@ -5,7 +5,7 @@ modules.export = {
   github: {
     name: 'Migan178',
     nickName: '미간',
-    project: ['kubot', 'discommand', 'discommand-slash'],
+    project: ['kubot', 'discommand'],
     org: ['discommand']
   },
   language: ['TypeScript', 'JavaScript', 'Python'],
