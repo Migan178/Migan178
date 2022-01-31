@@ -13,6 +13,7 @@ modules.export = {
   contact: {
     discord: 'Migan#5917',
     email: 'migan9857@gmail.com'
-  }
+  },
+  ProfilePhoto: 'https://picrew.me/image_maker/494736'
 }   
 ```
