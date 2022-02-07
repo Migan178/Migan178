@@ -11,7 +11,7 @@ modules.export = {
   language: ['TypeScript', 'JavaScript', 'Python'],
   aboutMe: '그냥 평범한 사람',
   contact: {
-    discord: 'Migan#5917',
+    discord: 'Migan#9999',
     email: 'migan9857@gmail.com'
   },
   ProfilePhoto: 'https://picrew.me/image_maker/494736'
