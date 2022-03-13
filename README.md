@@ -3,8 +3,8 @@
 ```js
 modules.export = {
   github: {
-    name: 'Jeon Siwoo',
-    nickName: '미간',
+    name: 'Migan',
+    nickName: 'Jeon Siwoo',
     project: ['kubot', 'discommand'],
     org: ['discommand']
   },
