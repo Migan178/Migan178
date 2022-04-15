@@ -11,7 +11,7 @@ modules.export = {
   language: ['TypeScript', 'JavaScript'],
   aboutMe: '그냥 평범한 사람',
   contact: {
-    discord: 'Migan#',
+    discord: 'Migan#1697',
     email: 'migan9857@gmail.com',
   },
   realName: 'Jeon Siwoo',
