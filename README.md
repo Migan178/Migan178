@@ -8,10 +8,10 @@ modules.export = {
     project: ['kubot (or Doremi)', 'discommand', 'mbpr'],
     org: ['discommand', 'Migan-Studio'],
   },
-  language: ['TypeScript', 'JavaScript', 'Python'],
+  language: ['TypeScript', 'JavaScript'],
   aboutMe: '그냥 평범한 사람',
   contact: {
-    discord: 'Migan#9999',
+    discord: 'Migan#',
     email: 'migan9857@gmail.com',
   },
   realName: 'Jeon Siwoo',
