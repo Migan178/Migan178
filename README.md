@@ -3,7 +3,7 @@
 ```js
 modules.export = {
   github: {
-    name: 'Migan',
+    name: 'Migan178',
     nickName: 'Jeon Siwoo',
     project: ['Doremi', 'discommand', 'mbpr'],
     org: ['discommand', 'Migan-Studio'],
@@ -11,7 +11,7 @@ modules.export = {
   language: ['TypeScript', 'JavaScript'],
   aboutMe: '그냥 평범한 사람',
   contact: {
-    discord: 'Migan#1697',
+    discord: 'Migan#4531',
     email: 'migan9857@gmail.com',
   },
   realName: 'Jeon Siwoo',
