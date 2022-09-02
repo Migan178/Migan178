@@ -7,7 +7,7 @@ export default {
     nickName: 'Jeon Siwoo',
     project: ['Doremi', 'discommand', 'mbpr'],
     org: ['discommand', 'Migan-Studio'],
-    LogoFonts: '레코체',
+    logoFonts: '레코체',
   },
   language: ['TypeScript', 'JavaScript'],
   aboutMe: '그냥 평범한 사람',
