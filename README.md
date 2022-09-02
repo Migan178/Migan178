@@ -1,7 +1,7 @@
 # About ME
 
-```js
-modules.export = {
+```ts
+export default {
   github: {
     name: 'Migan178',
     nickName: 'Jeon Siwoo',
