@@ -15,7 +15,7 @@ export default {
     discord: 'Migan#4531',
     email: 'migan9857@gmail.com',
   },
-  realName: 'Jeon Siwoo',
+  realName: 'Jeon Siwoo (전시)',
 }   
 ```
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migan178&theme=dark&hide_border=true&layout=compact" align="center" />
