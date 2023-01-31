@@ -10,4 +10,4 @@
 ![](https://img.shields.io/badge/yarn-%232C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Migan178&theme=dark&hide_border=true&layout=compact" align="center" />
-<img src="https://github-readme-stats.vercel.app/api/?username=Migan178&theme=dark&hide_border=true&layout=compact" align="center" />
+<img src="https://github-readme-stats.vercel.app/api?username=Migan178&theme=dark&hide_border=true&show_icons=true" align="center" />
